@@ -11,7 +11,7 @@
 - [Home page](Home-page)
 - [Response page](Response-page)
 
-<h1 align="center"> Imagens do projeto</h1>
+# Imagens do projeto
 ---
 
 <img align="center" src="./githubImg/gifOne.gif" alt="SlideOfPhotos">
