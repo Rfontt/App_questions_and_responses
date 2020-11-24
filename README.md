@@ -1,6 +1,6 @@
 # Indíce:
 ---
-- [Sobre o projeto](Sobre-o-projeto)
+- [Sobre o projeto](-Sobre-o-projeto)
 - [Passos a seguir](Passos-a-seguir)
 - [Noções iniciais](Noções-iniciais)
 - [Pacotes](Pacotes)
