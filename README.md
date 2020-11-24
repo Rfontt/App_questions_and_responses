@@ -24,10 +24,10 @@
 
 # Tecnologias usadas
 ---
-- React;
+- React native ;
 - Expo;
 - Typescript;
-- Node(Api;
+- Node(Api);
 - Canvas.
 
 # Sobre o projeto
